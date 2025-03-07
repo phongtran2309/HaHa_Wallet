@@ -23,4 +23,4 @@ def convert_file(input_file, output_file):
         print(f'Đã xảy ra lỗi: {e}')
 
 # Gọi hàm với tên tệp đầu vào và đầu ra
-convert_file('data.txt', 'output.json')
+convert_file('data.txt', 'accounts.json')
